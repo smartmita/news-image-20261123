@@ -4,16 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261123/smartmita/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 [![reward](https://make.fun/badge/news-image-20261123/smartmita/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-An illustrated Monday, 23 November 2026 world news front-page briefing covering six verified global stories across regions and beats:
-
-| Region & Beat | Story Summary (23 November 2026) |
-| --- | --- |
-| East Asia · Markets | AI-led sell-off rattles regional equities; China cuts margin floor to 80% and South Korea readies stabilization fund |
-| Africa · Health & Conflict | Fighting near an Ituri hospital in DR Congo traps WHO Ebola responders inside a maternity ward; WHO urges truce |
-| Global · Climate | Worldwide reaction after COP31 talks in Antalya close in deadlock without a fossil-fuel transition pact |
-| South Asia · Diplomacy | Nepal PM Balendra Shah holds bilateral talks with Indian PM Narendra Modi in New Delhi on energy and trade |
-| Americas · Space | Arianespace schedules Ariane 6 Flight VA271 (11:09 UTC) carrying 36 Amazon Leo satellites from French Guiana |
-| US Coast · Weather | NWS Coastal Flood Warnings take effect Monday across California and Oregon for 20-year peak king tides |
+A 1024×1024 illustrated Monday, 23 November 2026 global front-page world news atlas combining a bold date masthead, slim UTC timeline, three illustrated lead stories (Nvidia reinstating Jensen Huang as CEO amid a Wall Street surge, long-range Ukrainian drone strikes on Russia's Perm and Novoshakhtinsk refineries, and U.S.–Iran naval blockade warnings alongside Washington–Doha talks), ten high-contrast dark-editorial feature cards (Manchester Co-op Live 12,000-fan evacuation, Spain's Supreme Court granting amnesty to Carles Puigdemont, FDA approval of giredestrant, Ariane 6 VA271 launch scrub, Tajikistan's ICC withdrawal notice, PKK pulling back from 14 northern Iraq bases, Nepal PM Balendra Shah concluding his New Delhi visit with PM Modi, California/Oregon king-tide coastal flood warnings, DOJ's $1.17B North Korea-linked USDC forfeiture action, and Zverev's year-end ATP No. 1 confirmation), a luminous Natural Earth world atlas with a Europe/Perm/Gulf zoom inset, 18 sourced regional briefs across all 7 regions (31 verified dispatches total), and a single-day 23 Nov verification strip.
 
 ## Run it
 
