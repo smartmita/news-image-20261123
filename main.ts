@@ -99,7 +99,7 @@ function emitDailyBriefing(): void {
   const targetFile = join(destinationDir, 'entry.png');
   writeFileSync(targetFile, assetBuffer);
   console.log(
-    `Published ${metrics.encoding.toUpperCase()} ${metrics.width}x${metrics.height} (${metrics.byteCount} B) -> ${targetFile}`,
+    `[2026-11-23 V5] Published ${metrics.encoding.toUpperCase()} ${metrics.width}x${metrics.height} (${metrics.byteCount} B) -> ${targetFile}`,
   );
 }
 
